@@ -1,6 +1,7 @@
 ---
 layout: page
-title: National Initiative
+title: National Initiatives
+parent: Initiatives
 permalink: /national_initiative/
 ---
 

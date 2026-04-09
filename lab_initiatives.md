@@ -1,10 +1,11 @@
 ---
 layout: page
-title: VicharanaShala Lab Initiatives
+title: Lab Initiatives
+parent: Initiatives
 permalink: /lab_initiatives/
 ---
 
-## VicharanaShala Lab Initiatives
+## Vicharanashala Lab Initiatives
 
 VicharanaShala works at the intersection of pedagogy, technology, and reflective practice. Our initiatives are designed to support educators, students, and institutions through meaningful learning innovation.
 
