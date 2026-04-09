@@ -83,7 +83,7 @@ The HP system powers a gamified motivation engine for learning. Each task or ass
 - Reward-and-penalty loop that promotes consistency and accountability
 - Gamified progress dashboards for continuous learner motivation
 
-### Vi-Slides
+### Vi-SlideS
 
 **Timeline:** 2025-Present  
 **Status:** In Progress
