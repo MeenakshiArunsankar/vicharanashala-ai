@@ -6,15 +6,13 @@ card_mode: research
 cards_start_heading: Projects
 ---
 
-# Research at VLED
-
 Pioneering the future of education through technology and innovation.
 
 [Collaborate With Us]({{ '/contact/' | relative_url }})
 
-## Our Research Initiatives
+<!-- ## Our Research Initiatives
 
-Interdisciplinary projects at the intersection of education and cutting-edge technology.
+Interdisciplinary projects at the intersection of education and cutting-edge technology. -->
 
 ## Projects
 

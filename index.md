@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: home
 title: Home
 permalink: /
 ---
-
 
 # Vision and Mission
 
